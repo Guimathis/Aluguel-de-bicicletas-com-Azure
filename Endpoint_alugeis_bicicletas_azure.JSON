@@ -1,0 +1,21 @@
+{
+  "Inputs": {
+    "data": [
+      {
+        "day": 6,
+        "mnth": 9,
+        "year": 2024,
+        "season": 3,
+        "holiday": 0,
+        "weekday": 1,
+        "workingday": 1,
+        "weathersit": 2,
+        "temp": 0.4,
+        "atemp": 0.4,
+        "hum": 0.4,
+        "windspeed": 0.4
+      }
+    ]
+  },
+  "GlobalParameters": 0.0
+}
